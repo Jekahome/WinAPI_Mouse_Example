@@ -1,0 +1,11 @@
+C:\project\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.exe
+C:\project\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.deps.json
+C:\project\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.runtimeconfig.json
+C:\project\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.runtimeconfig.dev.json
+C:\project\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.dll
+C:\project\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.pdb
+C:\project\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\project\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.AssemblyInfoInputs.cache
+C:\project\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.AssemblyInfo.cs
+C:\project\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.dll
+C:\project\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.pdb
